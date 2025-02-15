@@ -145,4 +145,5 @@ int main() {
 
     long long sum = sumOfSeries(5);
     cout<<sum;
+    cout<<4+2;
 }
