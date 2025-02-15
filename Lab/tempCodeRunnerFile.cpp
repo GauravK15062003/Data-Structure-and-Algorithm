@@ -1,0 +1,2 @@
+ if(!swaps)
+    //      break; 

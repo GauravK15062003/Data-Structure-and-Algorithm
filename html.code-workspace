@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../html"
+		},
+		{
+			"path": "../Java"
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript",
+		"html.validate.scripts": true,
+		"liveServer.settings.NoBrowser": false
+	}
+}
